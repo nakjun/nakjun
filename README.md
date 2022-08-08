@@ -1,4 +1,8 @@
-👋 Hello. I'm Nak-Jun Sung, Hutom Graphics Team Senior Graphics Research Engineer & PL.
+👋 Hello. I'm Nak-Jun Sung.
+
+- Ph.D Candidate / Computer Graphics
+- TenEleven Corp Engine Programmer.
+- Hutom Corp Graphics Team Lead Graphics Engineer.
 
 👀 My core job competencies are:
 - During ms and ph.d studies, i conducted computer graphics and parallel processing research and wrote a number of theses.
