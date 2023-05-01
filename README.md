@@ -1,8 +1,8 @@
 👋 Hello. I'm Nak-Jun Sung.
 
 - Ph.D Candidate / Computer Graphics
-- TenEleven Corp Engine Programmer.
-- Hutom Corp Graphics Team Lead Graphics Engineer.
+- 22.03 ~ Current : Engine Team Leader, Engine Programmer / TenEleven
+- 20.05 ~ 22.02   : Graphics Team Lead Engineer           / Hutom
 
 👀 My core job competencies are:
 - During ms and ph.d studies, i conducted computer graphics and parallel processing research and wrote a number of theses.
