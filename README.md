@@ -1,13 +1,22 @@
-👋 Hello. I'm Nak-Jun Sung.
+👋 Hello. I'm Nak-Jun Sung a software engineer / graphics engineer.
 
-- Ph.D Candidate / Computer Graphics
-- 22.03 ~ 23.11, Engine Team Leader, Algorithm Development at TenEleven
-- 20.05 ~ 22.02, Graphics Team Lead Engineer, Unity Development at Hutom
+## Education
+- 18.03 ~ 20.08 : Dept of Software Convergence(Computer Graphics), Ph.D Candidate, Soonchunhyang University
+- 16.09 ~ 18.02 : Dept of Computer Science(Computer Graphics), M.S at Soonchunhyang University
+- 12.03 ~ 16.08 : Dept of Computer Software Engineering, B.S at Soonchunhyang University
 
-👀 My core job competencies are:
-- During ms and ph.d studies, i conducted computer graphics and parallel processing research and wrote a number of theses.
-- Senior researcher in the medical service startup industry, have a experience that optimizing the startup process.
-- Possess basic knowledge of the medical system and experience in software development project lead.
-- Possess strength in administrative tasks such as business planning and national R&D proposal preparation.
+## Career
+- 22.03 ~ 23.11 : Engine Team Leader, Algorithm Development at TenEleven
+- 20.05 ~ 22.02 : Graphics Team Lead Engineer, Unity Development at Hutom
+- 19.03 ~ 19.06 : Part Time Lecturer, Soonchunhyang University
+- 18.07 ~ 19.03 : CEO, ALL4ONE
 
-💞️ Currently : Technical Research Personnel(20.08~)
+## core job competencies
+- Develop commercial software in various languages such as C++, C#, Python, etc.
+- Researching technologies in various domains such as physical simulation, digital twin, and parallel processing
+- Possess team leadership experience and a variety of experiences ranging from new development to legacy improvement
+
+## Interest Field
+- Game Engine Development 
+- Algorithm Development
+- Unity Software(Digital Twin, etc) 
