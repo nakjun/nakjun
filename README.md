@@ -1,4 +1,4 @@
-👋 Hello. I'm Nak-Jun Sung a software engineer / graphics engineer.
+👋 Hello. I'm Nak-Jun Sung a software engineer, graphics engineer. Recently, i'm researching and developing front-end-friendly frameworks such as react, webgl, and webgpu.
 
 ## Education
 - 18.03 ~ 20.08 : Dept of Software Convergence(Computer Graphics), Ph.D Candidate, Soonchunhyang University
