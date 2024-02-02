@@ -6,6 +6,7 @@
 - 12.03 ~ 16.08 : Dept of Computer Software Engineering, B.S at Soonchunhyang University
 
 ## Career
+- 24.03 ~ 24.06 : Part Time Lecturer, Soonchunhyang University
 - 22.03 ~ 23.11 : Engine Team Leader, Algorithm Development at TenEleven
 - 20.05 ~ 22.02 : Graphics Team Lead Engineer, Unity Development at Hutom
 - 19.03 ~ 19.06 : Part Time Lecturer, Soonchunhyang University
