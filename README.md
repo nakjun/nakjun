@@ -21,4 +21,4 @@
 - Game Engine Development 
 - Algorithm Development
 - Unity Software(Digital Twin, etc) 
-- Web Frontend & Web Graphics
+- Web Fullstack & Web Graphics
