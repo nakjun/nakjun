@@ -9,6 +9,7 @@ I recently completed my Ph.D. in Software Convergence, specializing in computer 
 - **B.S. in Computer Software Engineering**, Soonchunhyang University, Mar 2012 – Aug 2016
 
 ## 💼 Career
+- **AI Researcher(Medical-AI)**, National Cancer Center, Nov 2024 - Current
 - **AX Team Leader**, GMCOM, Sep 2024 - Nov 2024
 - **Part-Time Lecturer**, Soonchunhyang University, Mar 2024 – Jun 2024
 - **Engine Team Leader (Algorithm Development)**, TenEleven, Mar 2022 – Nov 2023  
