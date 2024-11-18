@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nak-Jun Sung
 
-I'm a software engineer with a passion for developing AI, Graphics, Simulation...
-I recently completed my Ph.D. in Software Convergence, specializing in computer graphics, and starting in September 2024, I will be joining GMCOM as the AX Team Leader.
+I'm a software engineer and researcher with a passion for developing AI, Computer Graphics, Physically-based Simulation.
+Currently, I'm working at the Research Institute, National Cancer Center, Goyang, Republic of Korea. (njsung@ncc.re.kr)
 
 ## 🎓 Education
 - **Ph.D. in Software Convergence (Computer Graphics)**, Soonchunhyang University, Mar 2018 – Aug 2024
@@ -9,7 +9,7 @@ I recently completed my Ph.D. in Software Convergence, specializing in computer 
 - **B.S. in Computer Software Engineering**, Soonchunhyang University, Mar 2012 – Aug 2016
 
 ## 💼 Career
-- **AI Researcher(Medical-AI)**, National Cancer Center, Nov 2024 - Current
+- **Medical AI Researcher**, National Cancer Center, Nov 2024 - Current
 - **AX Team Leader**, GMCOM, Sep 2024 - Nov 2024
 - **Part-Time Lecturer**, Soonchunhyang University, Mar 2024 – Jun 2024
 - **Engine Team Leader (Algorithm Development)**, TenEleven, Mar 2022 – Nov 2023  
