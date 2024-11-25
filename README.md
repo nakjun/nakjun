@@ -12,8 +12,8 @@ Currently, I'm working at the Research Institute, National Cancer Center, Goyang
 - **Medical AI Researcher**, National Cancer Center, Nov 2024 - Current
 - **AX Team Leader**, GMCOM, Sep 2024 - Nov 2024
 - **Part-Time Lecturer**, Soonchunhyang University, Mar 2024 – Jun 2024
-- **Engine Team Leader (Algorithm Development)**, TenEleven, Mar 2022 – Nov 2023  
-- **Graphics Team Lead Engineer (Unity Development)**, Hutom, May 2020 – Feb 2022  
+- **Engine Team Leader**, TenEleven, Mar 2022 – Nov 2023  
+- **Graphics Team Lead Engineer**, Hutom, May 2020 – Feb 2022  
 - **Part-Time Lecturer**, Soonchunhyang University, Mar 2019 – Jun 2019  
 - **CEO**, ALL4ONE, Jul 2018 – Mar 2019
 
