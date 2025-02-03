@@ -9,7 +9,7 @@ Currently, I'm working at the Research Institute, National Cancer Center, Goyang
 - **B.S. in Computer Software Engineering**, Soonchunhyang University, Mar 2012 – Aug 2016
 
 ## 💼 Career
-- **Medical AI Researcher**, National Cancer Center, Nov 2024 - Current
+- **Researcher**, Research Institute, National Cancer Center, Nov 2024 - Current
 - **AX Team Leader**, GMCOM, Sep 2024 - Nov 2024
 - **Part-Time Lecturer**, Soonchunhyang University, Mar 2024 – Jun 2024
 - **Engine Team Leader**, TenEleven, Mar 2022 – Nov 2023  
