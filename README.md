@@ -24,7 +24,11 @@ Currently, I'm working at the Research Institute, National Cancer Center, Goyang
 
 ## 🌱 Interest Fields
 - **AI**  
-  Conducting advanced technology research related to AI. Interested in researching the latest Vision models and VLM based on CNN and ViT. Also interested in LLM and working on fine-tuning and instruction-tuning projects.
+  - Cutting-edge technology research related to Medical Artificial Intelligence.
+    - LLM, VLM, and MLLM for diagnostic field.
+    - Computer-aided Diagnostic(CAD) system research via Classification and Segmentation.
 
 - **Graphics and Simulation**  
-  Continued interest in Position-Based Dynamics (PBD) and Mass-Spring Systems (MSS) for physics simulation. Recently delving into newer techniques such as Vertex Block Descent and keeping a close eye on advancements in WebGPU for high-performance web-based graphics.
+  - Physically-based Simulation using Mass-Spring System(MSS) and Position-based Dynamics(PBD).
+  - Parallel Computing using CUDA, GLSL, WGSL, HLSL.
+  - OpenGL, Unity, and WebGPU.
