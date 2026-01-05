@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nak-Jun Sung
 
 I'm a software engineer and researcher with a passion for developing AI, Computer Graphics, Physically-based Simulation.
-Currently, I'm working at the Research Institute, National Cancer Center, Goyang, Republic of Korea. (njsung@ncc.re.kr)
+Currently, I'm working at the Hanshin University as a Assistant Professor.
 
 ## 🎓 Education
 - **Ph.D. in Software Convergence (Computer Graphics)**, Soonchunhyang University, Mar 2018 – Aug 2024
@@ -9,7 +9,8 @@ Currently, I'm working at the Research Institute, National Cancer Center, Goyang
 - **B.S. in Computer Software Engineering**, Soonchunhyang University, Mar 2012 – Aug 2016
 
 ## 💼 Career
-- **Post Doctoral Researcher**, Research Institute, National Cancer Center, Nov 2024 - Current
+- **Assistant Professsor**, Dept of AI/SW, Hanshin University, Jan 2026 - Current
+- **Post Doctoral Researcher**, Research Institute, National Cancer Center, Nov 2024 - Jan 2026
 - **AX Team Leader**, GMCOM, Sep 2024 - Nov 2024
 - **Part-Time Lecturer**, Soonchunhyang University, Mar 2024 – Jun 2024
 - **Engine Team Leader**, TenEleven, Mar 2022 – Nov 2023  
