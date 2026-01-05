@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Nak-Jun Sung
 
 I'm a software engineer and researcher with a passion for developing AI, Computer Graphics, Physically-based Simulation.
+
 Currently, I'm working at the Hanshin University as a Assistant Professor.
 
 ## 🎓 Education
